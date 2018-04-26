@@ -446,5 +446,10 @@ figure {
     padding-bottom: 1em;
   }
 }
-
+body{
+      font-family: 'cwTeXYen', sans-serif;
+}
+h1{
+  font-family: 'cwTeXYen', sans-serif;
+}
 /*# sourceMappingURL=style.css.map */
